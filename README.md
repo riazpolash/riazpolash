@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">- 🔭 I’m currently working on <b>wemaxit</b></p>
  
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riazpolash" alt="riazpolash" /></a> </p>
+<p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=riazpolash" alt="riazpolash" /></a> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=riazpolash&label=Profile%20views&color=0e75b6&style=flat" alt="riazpolash" /> </p>
 <p align="center"> <a href="https://twitter.com/riazpolash1" target="blank"><img src="https://img.shields.io/twitter/follow/riazpolash1?logo=twitter&style=for-the-badge" alt="riazpolash1" /></a> </p>
