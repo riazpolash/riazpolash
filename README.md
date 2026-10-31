@@ -145,17 +145,7 @@ Web application development for e-commerce functionality and online business wor
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<a href="https://github.com/riazpolash">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=riazpolash&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-</a>
-
-<a href="https://github.com/riazpolash">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riazpolash&layout=compact&hide_border=true&langs_count=8" alt="Most Used Languages" />
-</a>
-
-<br />
-
+ 
 <img src="https://streak-stats.demolab.com?user=riazpolash&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
