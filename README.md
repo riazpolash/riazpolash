@@ -176,7 +176,7 @@ I'm interested in connecting with developers, founders, businesses, and teams wo
   <a href="https://fb.com/riazpolash1">
     <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/riazpolash">
+  <a href="https://instagram.com/riaz.polash">
     <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.youtube.com/c/stackoverpoint">
