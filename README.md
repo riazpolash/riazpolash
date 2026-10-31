@@ -107,7 +107,7 @@ Building software solutions for courier operations, shipment management, merchan
 **Focus:** Shipment workflows, delivery management, business automation, and reporting.
 
 🔗 [Explore Courier Projects](https://github.com/riazpolash?tab=repositories&q=courier)
-
+<!--
 ### 📈 TradeNova Forex
 
 A trading application project focused on web-based trading functionality and financial market integrations.
@@ -131,7 +131,7 @@ An experimental project exploring automated flag-based battle simulations and st
 **Focus:** Simulation, automation, and streaming integration.
 
 🔗 [Explore Flags Projects](https://github.com/riazpolash?tab=repositories&q=flags)
-
+-->
 ### 🛒 E-commerce Development
 
 Web application development for e-commerce functionality and online business workflows.
