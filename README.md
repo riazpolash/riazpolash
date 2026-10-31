@@ -18,12 +18,11 @@
   <a href="https://github.com/riazpolash?tab=followers">
     <img src="https://img.shields.io/github/followers/riazpolash?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
   </a>
-
-  <h3 align="center">
+ 
     <a href="https://www.fiverr.com/polashm616">
       <img src="https://img.shields.io/badge/Fiverr-Level%201%20Seller-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Level 1 Seller"/>
     </a>
-  </h3>
+  
 
 </p>
 
